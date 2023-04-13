@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 < Information >
 
-NAME : YOU SUBEEN
+NAME : YOU SUBEEN \
 BIRTH : 1998.04.23
 MBTI : ENFP
 EAMIL : ysb8426@naver.com
