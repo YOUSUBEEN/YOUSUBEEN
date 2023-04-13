@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 - 정보처리기사 (expected)
 - SQLD (expected)
 - ADsP (expected)
+...
