@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 - SQLD (expected)
 - ADsP (expected)
 ...
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
