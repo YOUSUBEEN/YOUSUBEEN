@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 < certificate >
 
-- SMAT서비격경영자격
+- SMAT서비경영자격
 - 컴퓨터활용능력1급 (expected)
 - 정보처리기사 (expected)
 - SQLD (expected)
