@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-< Information >
+< Information✅>
 
 - NAME : YOU SU BEEN 
 - BIRTH : 1998.04.23 
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - EAMIL : ysb8426@naver.com 
 - MAJOR : Department of Health and Public Administration 
 
-< Experience >
+< Experience🎓>
 
 - 2022-12-28 ~ 2023-6-23 : AI플랫폼을 활용한 빅데이터분석 전문가 과정
 - 2023-05-08 ~ 2023-6-30 : 청년 AI-Big Data 아카데미 온라인 기초과정 (MOOC)
-...
 
-< certificate >
+
+< certificate✍>
 
 - SMAT서비스경영자격
 - 운전면허증 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - SQLD (expected)
 - ADsP (expected)
 - 빅데이터분석기사 (expected)
-...
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
