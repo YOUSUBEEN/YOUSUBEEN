@@ -28,16 +28,5 @@ Here are some ideas to get you started:
 - 2023-05-08 ~ 2023-6-30 : 청년 AI-Big Data 아카데미 온라인 기초과정 (MOOC)
 
 
-✍ certificate
-
-- SMAT서비스경영자격
-- 운전면허증 
-- 컴퓨터활용능력1급 (expected)
-- 정보처리기사 (expected)
-- SQLD (expected)
-- ADsP (expected)
-- 빅데이터분석기사 (expected)
-
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
