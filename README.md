@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 ✅ Information
 
-- NAME : YOU SU BEEN 
-- BIRTH : 1998.04.23 
+- Name : YOU SU BEEN 
+- Birth : 1998.04.23 
 - MBTI : ENFP
-- EAMIL : ysb8426@naver.com 
-- BLOG: https://yousubeen.github.io/
-- MAJOR : Department of Health and Public Administration 
+- Eamil : ysb8426@naver.com 
+- Blog: https://yousubeen.github.io/
+- Magor : Department of Health and Public Administration 
 
 🎓 Experience
 
