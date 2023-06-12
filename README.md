@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - Name : YOU SU BEEN 
 - Birth : 1998.04.23 
 - MBTI : ENFP
-- Eamil : ysb8426@naver.com 
+- Eamil : 
 - Blog: https://yousubeen.github.io/
-- Magor : Department of Health and Public Administration 
+- Magor : Department of Health and Public Administration
 
 🎓 Experience
 
