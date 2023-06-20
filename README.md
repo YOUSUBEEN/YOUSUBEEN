@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 - 2023-05-08 ~ 2023-6-30 : 청년 AI-Big Data 아카데미 온라인 기초과정 (MOOC)
 
 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
