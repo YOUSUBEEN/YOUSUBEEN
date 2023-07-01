@@ -21,10 +21,5 @@ Here are some ideas to get you started:
 - MBTI : ENFP
 - E-mail : ysb102323@gmail.com
 - Blog: https://yousubeen.github.io/
-
-🎓 Experience
-
-- 2022-12-28 ~ 2023-6-23 : AI플랫폼을 활용한 빅데이터분석 전문가 과정
-- 2023-05-08 ~ 2023-6-30 : 청년 AI-Big Data 아카데미 온라인 기초과정
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
