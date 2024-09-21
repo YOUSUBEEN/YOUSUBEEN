@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ✅ Information
 
-- Name : YOU SU BEEN
-- Birth : 1998.04.23 
-- MBTI : ENFP
-- E-mail : ysb102323@gmail.com
-- Blog: https://yousubeen.github.io/
+- Name : 000
+- Birth : 000
+- MBTI : 000
+- E-mail : 000
+- Blog: 000
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
